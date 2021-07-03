@@ -1,0 +1,34 @@
+[
+  {
+    "image": "https://ktr-images.s3.eu-central-1.amazonaws.com/lgs/tinkoff.png",
+    "amount": "до 80 000₽",
+    "url": "https://www.tinkoff.ru",
+    "processTime": "30 минут",
+    "term": "61-365 дней",
+    "interest": "8%"
+  },
+  {
+    "image": "https://ktr-images.s3.eu-central-1.amazonaws.com/lgs/alfa-bank.png",
+    "amount": "до 30 000₽",
+    "url": "https://alfabank.com/",
+    "processTime": "30 минут",
+    "term": "61-365 дней",
+    "interest": "9%"
+  },
+  {
+    "image": "https://ktr-images.s3.eu-central-1.amazonaws.com/lgs/vtb.png",
+    "amount": "до 30 000₽",
+    "url": "https://www.vtb.ru/",
+    "processTime": "90 минут",
+    "term": "61-365 дней",
+    "interest": "9.5%"
+  },
+  {
+    "image": "https://ktr-images.s3.eu-central-1.amazonaws.com/lgs/vostochniy.png",
+    "amount": "до 50 000₽",
+    "url": "https://www.vostbank.ru",
+    "processTime": "100 минут",
+    "term": "61-365 дней",
+    "interest": "10%"
+  }
+]
